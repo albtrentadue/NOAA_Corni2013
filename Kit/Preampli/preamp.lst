@@ -1,0 +1,55 @@
+eeschema (2011-05-25)-stable  >> Creation date: dom 07 apr 2013 22:41:32 CEST
+
+#Cmp ( ordine = Riferimento )
+| C1         10pF        
+| C2         18pF        
+| C3         22pF        
+| C4         3pF         
+| C5         22pF        
+| C6         22pF        
+| C7         3pF         
+| C8         22pF        
+| C9         18pF        
+| C10        10pF        
+| C11        1nF         
+| C12        100n        
+| D1         1N4148      
+| L1         106nH       
+| L2         110nH       
+| L3         106nH       
+| L4         RFC         
+| L5         RFC         
+| P1         BNC         
+| P2         BNC         
+| RV1        220         
+| U1         MAR6        
+| U2         7806        
+#Fine Cmp
+
+#Cmp ( ordine = Valore )
+| 100n         C12       
+| 106nH        L1        
+| 106nH        L3        
+| 10pF         C1        
+| 10pF         C10       
+| 110nH        L2        
+| 18pF         C2        
+| 18pF         C9        
+| 1N4148       D1        
+| 1nF          C11       
+| 220          RV1       
+| 22pF         C3        
+| 22pF         C5        
+| 22pF         C6        
+| 22pF         C8        
+| 3pF          C4        
+| 3pF          C7        
+| 7806         U2        
+| BNC          P1        
+| BNC          P2        
+| MAR6         U1        
+| RFC          L4        
+| RFC          L5        
+#Fine Cmp
+
+#Fine Lista

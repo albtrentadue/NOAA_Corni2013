@@ -1,0 +1,25 @@
+Kit ricezione immaging APT satelliti NOAA 
+
+Antenna:
+- Antenna Turnstile
+-- Pagina di Mark Griffiths, G6KIZ
+-- File .dxf e stampe .pdf
+
+Preamplificatore
+- Articolo preselettore di YU1LM
+- Schema PDF
+- File progetto ORCAD **
+- Descrizione montaggio **
+
+Software
+- SW Download
+-- SDR#
+-- VAC
+-- WxToImg
+- Istruzioni di configurazione **
+
+Documetazione
+- Satelliti metereologici.ppt
+- NOAA_AntennaPreamp-v1.5.ppt
+- RicezioneSatNOAA-v1.1.ppt
+
